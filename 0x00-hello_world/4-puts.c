@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  *main - contains our code to prints our output
  *Return: Always 0 (Success)
