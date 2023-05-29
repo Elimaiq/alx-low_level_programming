@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 /**
  *main - contains our code to prints our output
