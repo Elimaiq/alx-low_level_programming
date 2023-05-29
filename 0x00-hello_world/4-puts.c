@@ -2,11 +2,10 @@
 
 /**
  *main - contains our code to prints our output
- *Return - 0 (Successful execution)
+ *Return: Always 0 (Success)
  */
-
 int main(void) 
 {
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
